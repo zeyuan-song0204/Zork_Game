@@ -9,7 +9,7 @@
     </p>
 </div>
 ## Build with
-:running:Zeyuan Song(2605623s)<br>:running:Weinan Wang(2583409w)<br>:running:Yufei Liu(2572166l)
+:running:Zeyuan Song(2605623s)<br>
 ## Prerequisites
 QT5 creator 4.11.1 with GUI<br>
 
