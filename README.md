@@ -6,7 +6,7 @@
     A game logic example for Zork
     <br />
     </p>
-  <img src="images/MainScreen.PNG" width="600" height="300"><br>
+  <img src="images/MainScreen.PNG" width="600" height="400"><br>
  
 </div>
 
