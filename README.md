@@ -2,6 +2,7 @@
 <br />
 <div align="center">
   <br />
+  <img src="images/zork.jpg" width="100" height="50"><br>
    <p align="center">
     A game logic example for Zork
     <br />
