@@ -1,1 +1,28 @@
 # Zork_Game
+<br />
+<div align="center">
+  <br />
+  <img src="image_forder/logo2.jpg" alt="Logo">
+  <p align="center">
+    A game logic example for Zork
+    <br />
+    </p>
+</div>
+## Build with
+:running:Zeyuan Song(2605623s)<br>:running:Weinan Wang(2583409w)<br>:running:Yufei Liu(2572166l)
+## Prerequisites
+QT5 creator 4.11.1 with GUI<br>
+
+
+## License
+Project is distributed under <a href="https://github.com/zeyuan-song0204/Remote-infrared-thermometer-/blob/main/LICENSE">MIT License</a>
+## Contact
+Zeyuan Song - 2605623s@student.gla.ac.uk
+
+
+
+
+
+
+
+
