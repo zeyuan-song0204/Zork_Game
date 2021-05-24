@@ -2,11 +2,12 @@
 <br />
 <div align="center">
   <br />
-  <img src="images/MainScreen.PNG" width="300" height="300"><br>
-  <p align="center">
+   <p align="center">
     A game logic example for Zork
     <br />
     </p>
+  <img src="images/MainScreen.PNG" width="600" height="300"><br>
+ 
 </div>
 
 
