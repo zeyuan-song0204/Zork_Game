@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <br />
-  <img src="image_forder/logo2.jpg" alt="Logo">
+  <img src="image/MainScreen.PNG" alt="Logo">
   <p align="center">
     A game logic example for Zork
     <br />
